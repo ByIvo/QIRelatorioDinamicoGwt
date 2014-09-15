@@ -1,0 +1,11 @@
+# gwt-unitcache
+gwt-unitCache/**
+
+#Módulos
+war/QIRelatorioDinamicoGwt/**
+
+war/WEB-INF/classes/**
+war/WEB-INF/deploy/**
+
+war/*.log
+
